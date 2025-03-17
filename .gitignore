@@ -1,0 +1,19 @@
+# 유니티 캐시 및 불필요한 파일 무시
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio/VS Code 관련 파일 무시
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+
+# OS별 무시할 파일
+.DS_Store
+Thumbs.db
